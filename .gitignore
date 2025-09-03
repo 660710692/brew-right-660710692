@@ -49,3 +49,5 @@ Thumbs.db
 # Credentials
 credentials/
 secrets/
+data/mosquitto/*.log
+data/mosquitto/*.db
