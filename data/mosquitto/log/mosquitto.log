@@ -1,0 +1,27 @@
+1752650291: mosquitto version 2.0.18 starting
+1752650291: Config loaded from /mosquitto/config/mosquitto.conf.
+1752650291: Opening ipv4 listen socket on port 1883.
+1752650291: Opening ipv6 listen socket on port 1883.
+1752650291: Opening websockets listen socket on port 9883.
+1752650291: mosquitto version 2.0.18 running
+1752652091: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1752652091: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1753255837: mosquitto version 2.0.18 starting
+1753255837: Config loaded from /mosquitto/config/mosquitto.conf.
+1753255837: Opening ipv4 listen socket on port 1883.
+1753255837: Opening ipv6 listen socket on port 1883.
+1753255837: Opening websockets listen socket on port 9883.
+1753255837: mosquitto version 2.0.18 running
+1753257638: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1753257638: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1753259439: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1753259439: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1753261240: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1753261240: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1753263041: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1753263041: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
